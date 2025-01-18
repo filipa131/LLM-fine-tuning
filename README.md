@@ -28,7 +28,7 @@ Step 1: Import Libraries
   - transformers and datasets from Hugging Face for model training and dataset management
 
 Step 2: Load and Preprocess the Dataset
-. Loaded the dataset using Pandas.
+- Loaded the dataset using Pandas.
 - Retained only the input and output columns, which represent user queries and doctor responses.
 - Handled missing values by removing incomplete records.
 - Converted the cleaned dataset into a Hugging Face Dataset and split it into training and testing subsets (90%-10%).
