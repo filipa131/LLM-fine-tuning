@@ -46,7 +46,7 @@ Step 5: Save Fine-Tuned Model
 - Saved the fine-tuned model and tokenizer for future use.
   
 Step 6: Generate Responses
-- Reloaded the model.
+- Reloaded the model and tokenizer.
 - Developed a system prompt to guide the model in generating professional, empathetic responses.
 - Tested the model using real examples from the test dataset.
 
