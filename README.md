@@ -5,6 +5,8 @@
 
 We utilize the Doctor-HealthCare-100k dataset, a high-quality dataset of healthcare conversations. This dataset enables fine-tuning NLP models to generate empathetic, professional, and contextually accurate responses in the medical domain.
 
+Link to dataset: https://www.kaggle.com/datasets/divyanshu2000/doctor-healthcare-100k
+
 
 ### Project Overview
 
